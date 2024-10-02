@@ -2,7 +2,7 @@
 
 This repository contains the code and notebook to reproduce the PLIF analysis
 experiments in the paper
-*"Assessing interaction recovery of predicted protein-ligand poses"*.
+[*"Assessing interaction recovery of predicted protein-ligand poses"*](https://arxiv.org/abs/2409.20227) [arXiv:2409.20227].
 
 ## Structure
 
@@ -40,3 +40,17 @@ You will also need Jupyter notebook installed if you wish to run the notebook di
 ## Running the analysis code
 
 Open the `notebooks/plif_analysis.ipynb` file with Jupyter notebook and run all cells.
+
+## Citing us
+
+```
+@misc{errington2024assessinginteractionrecoverypredicted,
+  title         = {Assessing interaction recovery of predicted protein-ligand poses},
+  author        = {David Errington and Constantin Schneider and Cédric Bouysset and Frédéric A. Dreyer},
+  year          = {2024},
+  url           = {https://arxiv.org/abs/2409.20227},
+  eprint        = {2409.20227},
+  archiveprefix = {arXiv},
+  primaryclass  = {q-bio.BM}
+}
+```

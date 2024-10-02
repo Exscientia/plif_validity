@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: >-
+  Assessing interaction recovery of predicted protein-ligand poses
+message: >-
+  If you use this work, please cite it using the following metadata.
+type: software
+authors:
+  - family-names: Errington
+    given-names: David
+  - family-names: Schneider
+    given-names: Constantin
+  - family-names: Bouysset
+    given-names: Cédric
+  - family-names: Dreyer
+    given-names: Frédéric A.
+identifiers:
+  - type: doi
+    value: 10.48550/arXiv.2409.20227
+    description: The ArXiv preprint of the paper
+  - type: doi
+    value: 10.5281/zenodo.13851241
+    description: Data for the 256 PoseBuster targets used in our paper
+repository-code: "https://github.com/Exscientia/plif_validity"
+url: "https://arxiv.org/abs/2409.20227"
+repository-artifact: "https://doi.org/10.5281/zenodo.13851241"
+keywords:
+  - protein-ligand interaction
+  - pose prediction
+  - computational chemistry
+license: MIT
+version: arXiv.2409.20227
+date-released: "2024-09-30"
